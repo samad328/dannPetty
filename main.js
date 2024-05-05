@@ -379,7 +379,7 @@ function curtains(){
     console.log("%ccurtains.js: https://github.com/martinlaxenaire/curtainsjs", 'font-size: 11px; color: #111111; font-family: "Swiss", Arial, sans-serif;');
     console.log("%c Lenis for smooth scroll : https://github.com/darkroomengineering/lenis", 'font-size: 11px; color: #111111; font-family: "Swiss", Arial, sans-serif;');
     console.log("%cGSAP: https://gsap.com/", 'font-size: 11px; color: #111111; font-family: "Swiss", Arial, sans-serif;');
-    console.log("%cimagesLoaded: https://github.com/desandro/imagesloaded", 'font-size: 11px; color: #111111; font-family: "Swiss", Arial, sans-serif;');
+    console.log("%cimagesLoaded: https://gsap.com/", 'font-size: 11px; color: #111111; font-family: "Swiss", Arial, sans-serif;');
 
   
 
