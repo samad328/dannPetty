@@ -7,8 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dann Petty Portfolio</title>
     <link rel="stylesheet" href="style.css">
+    <script>
+      document.documentElement.className = "js";
+      var supportsCssVars = function() { var e, t = document.createElement("style"); return t.innerHTML = "root: { --tmp-var: bold; }", document.head.appendChild(t), e = !!(window.CSS && window.CSS.supports && window.CSS.supports("font-weight", "var(--tmp-var)")), t.parentNode.removeChild(t), e };
+      supportsCssVars() || alert("Please view this in a modern browser that supports CSS Variables.");
+      </script>
   </head>
-  <body>
+  <body class="loading">
     
     <div id="page-wrap" class="page-wrapper">
       <div id="canvas"></div>
